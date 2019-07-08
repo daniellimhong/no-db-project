@@ -1,0 +1,23 @@
+ [
+    {
+      "id": 1,
+      "title": "Lofi Hip-Hop Radio",
+      "vidId": "https://www.youtube.com/watch?v=hHW1oY26kxQ" 
+    },
+    {
+        "id": 2,
+        "title": "Classical Radio",
+        "vidId": "https://www.youtube.com/watch?v=LV-sRd6OgSA" 
+      },
+      {
+        "id": 3,
+        "title": "Jazz Radio",
+        "vidId": "https://www.youtube.com/watch?v=Dx5qFachd3A" 
+      },
+      {
+        "id": 4,
+        "title": "Deep House Radio",
+        "vidId": "https://www.youtube.com/watch?v=WsDyRAPFBC8" 
+      }
+  ]
+  

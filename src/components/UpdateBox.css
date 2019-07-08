@@ -1,0 +1,26 @@
+.Popup{
+    display: flex;
+    justify-content: center;
+    padding: 10px 0px 20px 0px;
+  }
+  
+  .Model-content{
+    width: 500px;
+    height: 80px;
+    background-color: white;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    padding: 5px;
+    
+  }
+  
+  a{
+    font-family: 'Muli', sans-serif;
+  }
+
+  input {
+    width: 35%;
+    /* display: block; */
+    margin: 10px auto;
+    
+  }
