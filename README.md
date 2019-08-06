@@ -1,4 +1,4 @@
-# Master Plan: Workfl.ow
+# Initial Master Plan: Workfl.ow
 
 ## Back-end development
 ### Server Folder-Structure
@@ -86,9 +86,7 @@ lofi, classical, jazz, electronic, custom;
 - Update/Put: function to update link within a custom playlist
 - Delete: function to delete link or custom playlist all together
 
-####
-found this regex code to help find videoID of youtube link
-http://stackoverflow.com/questions/3452546/javascript-regex-how-to-get-youtube-video-id-from-url/27728417#27728417
+
 
 
 
